@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "HIGHMCNETWORK.aternos.me",
+    "port": 48726,
     "version": "1.21.1"
   },
   "position": {
